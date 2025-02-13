@@ -1,0 +1,19 @@
+[package]
+name = "ibw"
+version = "1.0.0"
+authors = []
+
+[addresses]
+test = "0x3ffc0b9c9e482d985a4e7f168ce6d0ee26c79661d8960a4cdf1b8eebfe72c8ef"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies]
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-token-objects" }
+
+[dev-dependencies]
