@@ -1,8 +1,10 @@
-# Event Management On APTOS
+# Event Management On Move
 
 A decentralized event management system built on Aptos Move that enables event organizers to create and manage events with integrated token rewards and NFT collections.
 
 **This Contract was also used in India Blockchain Week 2024 for Event Management.**
+
+Explorer - https://explorer.movementlabs.xyz/account/0x4380432feb95b2ec174d136853a83dc395ecd4077f9e144fc75bb732c2c51c65/modules/code/evolv_erc20?network=bardock+testnet
 
 ## Overview
 
